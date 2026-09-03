@@ -38,4 +38,4 @@
 
 ## 🌐 Демо проекту
 
-**[ ПОСИЛАННЯ НА VERCEL / NETLIFY ](https://ваш-проект.vercel.app)**
+**[ ДЕМО ПРОЕКТУ ](https://home-work-39-nine.vercel.app)**
